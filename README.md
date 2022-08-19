@@ -2,4 +2,4 @@
 - 👀 I’m interested in Machine learning, Deep learning, Natural language processing(nlp) and computer vision.
 - 🌱 I’m currently pursuing aiml engineering(2nd year)
 - 💞️ I’m looking to collaborate on Machine learning projects and integrating machine learning onto web browsers.
-- 📫 Contact me on my email-Jaya11vibhav@gmail.com
+- 📫 Contact me on my email Jaya11vibhav@gmail.com
