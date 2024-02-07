@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @jayavibhavnk
-- 👀 I’m interested in Machine learning, Deep learning, Natural language processing(nlp) and computer vision.
+- 👀 I’m interested in Natural Language Processing and Generative AI.
 - 🌱 I’m currently pursuing aiml engineering(4th year)
-- 💞️ I’m looking to collaborate on Machine learning projects and integrating machine learning onto web browsers.
 - 📫 Contact me on my email Jaya11vibhav@gmail.com
